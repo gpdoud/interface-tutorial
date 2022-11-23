@@ -1,0 +1,15 @@
+C:\repos\interface-tutorial\bin\Debug\net6.0\interface-tutorial.exe
+C:\repos\interface-tutorial\bin\Debug\net6.0\interface-tutorial.deps.json
+C:\repos\interface-tutorial\bin\Debug\net6.0\interface-tutorial.runtimeconfig.json
+C:\repos\interface-tutorial\bin\Debug\net6.0\interface-tutorial.dll
+C:\repos\interface-tutorial\bin\Debug\net6.0\interface-tutorial.pdb
+C:\repos\interface-tutorial\obj\Debug\net6.0\interface-tutorial.csproj.AssemblyReference.cache
+C:\repos\interface-tutorial\obj\Debug\net6.0\interface-tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\interface-tutorial\obj\Debug\net6.0\interface-tutorial.AssemblyInfoInputs.cache
+C:\repos\interface-tutorial\obj\Debug\net6.0\interface-tutorial.AssemblyInfo.cs
+C:\repos\interface-tutorial\obj\Debug\net6.0\interface-tutorial.csproj.CoreCompileInputs.cache
+C:\repos\interface-tutorial\obj\Debug\net6.0\interface-tutorial.dll
+C:\repos\interface-tutorial\obj\Debug\net6.0\refint\interface-tutorial.dll
+C:\repos\interface-tutorial\obj\Debug\net6.0\interface-tutorial.pdb
+C:\repos\interface-tutorial\obj\Debug\net6.0\interface-tutorial.genruntimeconfig.cache
+C:\repos\interface-tutorial\obj\Debug\net6.0\ref\interface-tutorial.dll
